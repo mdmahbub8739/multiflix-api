@@ -1,0 +1,846 @@
+[
+  {
+    "id": 55,
+    "tmdb_id": null,
+    "title": "Goosebumps",
+    "genre": "Adventure",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/lHnLmg16r6VvMV7cKpFxjwdG8m2.jpg",
+    "description": "After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#isbn3h&dl=1",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Goosebumps Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T10:57:06.306344+00:00"
+  },
+  {
+    "id": 65,
+    "tmdb_id": null,
+    "title": "Animal",
+    "genre": "Action",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
+    "description": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#x6ol8q",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "The Animal Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:29:17.564854+00:00"
+  },
+  {
+    "id": 70,
+    "tmdb_id": null,
+    "title": "Deadpool 2",
+    "genre": "Action",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+    "description": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#me11q5",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Deadpool Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:41:13.527049+00:00"
+  },
+  {
+    "id": 75,
+    "tmdb_id": null,
+    "title": "Singham Again",
+    "genre": "Action",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/2JbNkHg8m7LaBy61LyrnnlenaxY.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/kQGJ3Cv7AKAvmdUaCLihkxVMMqs.jpg",
+    "description": "The cop universe expands with newer additions while the old ones return led by Bajirao Singham. Singham Again interweaves the mythological epic Ramayana's good vs evil narrative when his wife Avni Kamath gets abducted by Danger Lanka setting Bajirao and his gang of Sangram Bhalerao and Veer Sooryavanshi along with Satya and Shakti Shetty on a mission to rescue her.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#ztsz",
+        "name": "Server 1"
+      },
+      {
+        "url": "https://dintezuvio.com/embed/8otdccxhqkdg",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Cop Universe Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T16:22:15.17347+00:00"
+  },
+  {
+    "id": 80,
+    "tmdb_id": null,
+    "title": "Jujutsu Kaisen 0",
+    "genre": "Animation",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
+    "description": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#q5zjps",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Jujutsu Kaisen Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:19:17.322216+00:00"
+  },
+  {
+    "id": 85,
+    "tmdb_id": null,
+    "title": "Doraemon the Movie: Nobita's Earth Symphony",
+    "genre": "Animation",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/Z3mSxuPRNiFYxf1LBoGz3YrJzC.jpg",
+    "description": "Music exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music!",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#6pr8bw",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Doraemon Movies",
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:31:39.852898+00:00"
+  },
+  {
+    "id": 60,
+    "tmdb_id": null,
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+    "genre": "Animation",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/w500/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+    "description": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/s4ok7c6n0ysf",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [
+      {
+        "link": "https://server1.uns.bio/#pojje9",
+        "title": "1080p"
+      }
+    ],
+    "cast_data": [],
+    "sequence_name": "Demon Slayer: Kimetsu no Yaiba Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:18:16.115369+00:00"
+  },
+  {
+    "id": 56,
+    "tmdb_id": null,
+    "title": "Tere Ishk Mein",
+    "genre": "Romance",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/ygF5ue2XEC2CdquOAZHTCfYrhVQ.jpg",
+    "description": "A psychology student attempts to rehabilitate a volatile young man, before evolving into a doomed romance.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#ldaxlj",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "World Of Raanjhanaa",
+    "sequence_order": null,
+    "created_at": "2025-12-02T10:57:34.160245+00:00"
+  },
+  {
+    "id": 61,
+    "tmdb_id": null,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "genre": "Animation",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/js8ub735tw9y",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Demon Slayer: Kimetsu no Yaiba Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:21:43.346037+00:00"
+  },
+  {
+    "id": 66,
+    "tmdb_id": null,
+    "title": "Jurassic World Rebirth",
+    "genre": "Science Fiction",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+    "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#mejcy8",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Jurassic Park Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:31:19.092727+00:00"
+  },
+  {
+    "id": 71,
+    "tmdb_id": null,
+    "title": "Logan",
+    "genre": "Action",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+    "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/hzh252vuyh3x",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "The Wolverine Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:42:34.447013+00:00"
+  },
+  {
+    "id": 76,
+    "tmdb_id": null,
+    "title": "Mirai",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/gVzWHYThVODV5MgccDoyQxPFXve.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/1Xw1Gh4XTWwrkIIISOGFBMPvO8.jpg",
+    "description": "Following the historic Kalinga battle, where King Ashoka of the Maurya dynasty emerged as the winner, he chose to walk the path of peace instead of continuing warfare. Yet, the kingdom appointed nine warriors to protect some ancient scriptures rumored to have the ability to make someone divine or godlike.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#ildoxu",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T16:26:28.348448+00:00"
+  },
+  {
+    "id": 81,
+    "tmdb_id": null,
+    "title": "The Calendar Killer",
+    "genre": "Crime",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/haX32ZQxOgDWcJO5sTiTUEE1Ulr.jpg",
+    "description": "Klara is going to die today unless she kills her husband instead. The Calendar Killer has given her that impossible choice. When Jules starts his night shift at a telephone safety helpline for lonely women on their way home, Klara's call reaches him. He soon becomes her last hope for survival and races against time to save her.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#wuut",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:22:33.220767+00:00"
+  },
+  {
+    "id": 86,
+    "tmdb_id": null,
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "genre": "Animation",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+    "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#pojje9",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:33:51.007179+00:00"
+  },
+  {
+    "id": 57,
+    "tmdb_id": null,
+    "title": "The Dive",
+    "genre": "Thriller",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/1aLFglfGkTFG5p6KQg9o07EN3rl.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/gknIloEJve4FgAzlKdOUZu1K9HT.jpg",
+    "description": "Two sisters go diving at a beautiful, remote location. One of the sisters is struck by a rock, leaving her trapped 28 meters below. With dangerously low levels of oxygen and cold temperatures, it is up to her sister to fight for her life.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/dvcb4ulo1usg",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:06:43.363934+00:00"
+  },
+  {
+    "id": 62,
+    "tmdb_id": null,
+    "title": "Kantara - A Legend: Chapter 1",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/zBvw25afDn93embB8L7FzvTT2xq.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/1hDUJFAYkLJUCoiXzDi2cLmFh4m.jpg",
+    "description": "During the Kadamba reign, King Vijayendra, the ruler of the fictional feudatory land of Bangra, meets his final fate while venturing into the mystical forest of Kantara. Witnessing this, his son Rajashekara seals the borders of their realm. Later, Prince Kulashekara reopens them through a brutal massacre. The protagonist, Berme, in search of prosperity, crosses the divide and ignites a conflict of faith, power, and destiny between the Kingdom and Nature.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/v9t38f808c76",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Kantara Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:29:27.964264+00:00"
+  },
+  {
+    "id": 67,
+    "tmdb_id": null,
+    "title": "Smallfoot",
+    "genre": "Family",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/zIVHIKljz7pFB8Es9U2n8xaUvDm.jpg",
+    "description": "A bright young yeti finds something he thought didn't exist—a human. News of this “smallfoot” throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.",
+    "servers": [
+      {
+        "url": "4https://dintezuvio.com/embed/vihdfz3nmi7w",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:33:08.59876+00:00"
+  },
+  {
+    "id": 72,
+    "tmdb_id": null,
+    "title": "120 Bahadur",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/fdxf02vUous6fty6O4nollyuo4m.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/vdZY6co1YN1TkcHGOE9oUsDe5PV.jpg",
+    "description": "Valiant Indian soldiers fight against Chinese troops during the 1962 Sino-Indian War, preventing a potential occupation of Ladakh region in the Battle of Rezang La.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#cmo9zl",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:55:15.104642+00:00"
+  },
+  {
+    "id": 77,
+    "tmdb_id": null,
+    "title": "Captain America: Brave New World",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
+    "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#s91qom",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Captain America Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T16:28:04.961676+00:00"
+  },
+  {
+    "id": 82,
+    "tmdb_id": null,
+    "title": "The Shadow's Edge",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#po5uzk",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:24:37.745959+00:00"
+  },
+  {
+    "id": 87,
+    "tmdb_id": null,
+    "title": "Saiyaara",
+    "genre": "Romance",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/hQBIsi3ZfBYEayMc3GhcEmJVkss.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/mguy0nefEUY7NKruffpLO3Stj3d.jpg",
+    "description": "Two artistic souls find harmony through music despite their contrasting worlds. As feelings deepen, age and circumstances challenge their undeniable bond.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#35r8v",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:52:44.999286+00:00"
+  },
+  {
+    "id": 58,
+    "tmdb_id": null,
+    "title": "Thamma",
+    "genre": "Comedy",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/6UKhOhwNhfC5CBohere70svnKcH.jpg",
+    "description": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/1z8pqu2j6abo",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Maddock Horror Comedy Universe",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:10:49.62731+00:00"
+  },
+  {
+    "id": 63,
+    "tmdb_id": null,
+    "title": "Troll",
+    "genre": "Fantasy",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/ml2Nl1JzWV0WlniVuF5YLrYt1ot.jpg",
+    "description": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly havoc.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/zmi9qnwhqic7",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Troll  Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:31:53.963176+00:00"
+  },
+  {
+    "id": 68,
+    "tmdb_id": null,
+    "title": "Mythica: A Quest for Heroes",
+    "genre": "Action",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/w500/n75lUF6T2uvy1ZhVyjmdfaTfDT5.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/45WeAxvUnpLXohr9yuB5kD6O97I.jpg",
+    "description": "Stuck in a life of indentured servitude, Marek dreams of becoming a wizard. When she meets the beautiful priestess Teela in need of help, she offers her assistance and provides a motley troupe. Together they go in search of Teela's sister, who was kidnapped by a wild ogre.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#poajve",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Mythica Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:36:21.351995+00:00"
+  },
+  {
+    "id": 73,
+    "tmdb_id": null,
+    "title": "Adore",
+    "genre": "Drama",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/hIQqIeG7Ude0QRUFntdLtsAUEBB.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/6Oxd8dZr7IxdCPwibq0bj3Z9wpQ.jpg",
+    "description": "Lil and Roz are two lifelong friends, having grown up together as neighbors in an idyllic beach town. As adults, their sons have developed a friendship as strong as that which binds their mothers. One summer, all four are confronted by simmering emotions that have been mounting between them, and each find unexpected happiness in relationships that cross the bounds of convention.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/sy42vvdc27hq",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:57:13.313946+00:00"
+  },
+  {
+    "id": 78,
+    "tmdb_id": null,
+    "title": "K.G.F: Chapter 1",
+    "genre": "Action",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/w500/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+    "description": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#twug6j",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "K.G.F Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T16:31:27.721546+00:00"
+  },
+  {
+    "id": 83,
+    "tmdb_id": null,
+    "title": "The Grudge",
+    "genre": "Horror",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/w500/5AGB8FVELnhMMw3nO372sw1xp58.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg",
+    "description": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#e9n8u9",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "The Grudge Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:26:51.134674+00:00"
+  },
+  {
+    "id": 88,
+    "tmdb_id": null,
+    "title": "Borbaad",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/jpvptCCkoF85hZL3xd6olSAg8qc.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/jU6M4W5F6GRMKqFP4y7YMyTtm1t.jpg",
+    "description": "After a heartbreak by Nitu, Ariyan Mirza seeks revenge, guided by his father Adib Mirza's wisdom. Their story transforms from romance to violence, culminating in courtroom confrontations over justice.",
+    "servers": [
+      {
+        "url": "https://multishows.strp2p.com/#8uey8",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T19:17:52.785315+00:00"
+  },
+  {
+    "id": 59,
+    "tmdb_id": null,
+    "title": "TRON: Ares",
+    "genre": "Science Fiction",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/g3lCbTn3HYHTiFrfusxKGXMdyUW.jpg",
+    "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/7qoljax4a8v7",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "TRON Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T11:14:43.787681+00:00"
+  },
+  {
+    "id": 64,
+    "tmdb_id": null,
+    "title": "Jawan",
+    "genre": "Action",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+    "description": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/7cv1gmo8cxi9",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:20:00.819487+00:00"
+  },
+  {
+    "id": 69,
+    "tmdb_id": null,
+    "title": "Jolly LLB 3",
+    "genre": "Drama",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/bwRoU9p5GvjxgPfmIgsfcJ4ydng.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/gC1kJpDPtaogbq7N543si20jC0w.jpg",
+    "description": "The third part of the Jolly LLB trilogy brings back Jagdish Tyagi and Jagdishwar Mishra for the biggest face-off as penurious widow Janki Devi Solanki awaits justice against business tycoon Haribhai Khaitan in a satire on the judiciary, justice and the gulf between the privileged and the people on the other side of the spectrum.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#3wme9r",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Jolly LLB Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T12:38:30.01615+00:00"
+  },
+  {
+    "id": 51,
+    "tmdb_id": null,
+    "title": "Troll 2",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/oe7744g1sz09",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Troll  Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T08:21:47.594819+00:00"
+  },
+  {
+    "id": 52,
+    "tmdb_id": null,
+    "title": "Stitch Head",
+    "genre": "Animation",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
+    "description": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#vfecp5",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T10:55:04.871409+00:00"
+  },
+  {
+    "id": 53,
+    "tmdb_id": null,
+    "title": "Aquaman and the Lost Kingdom",
+    "genre": "Action",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/7S0bXv3BqCuPfImKRf5kkmBVYZR.jpg",
+    "description": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#onuijl",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Aquaman Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T10:55:33.103013+00:00"
+  },
+  {
+    "id": 54,
+    "tmdb_id": null,
+    "title": "Bison Kaalamaadan",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/6xEk8ZbqCgmicmeICyYGospXU7R.jpg",
+    "description": "A young man fights to overcome violence plaguing his village and succeed as a professional kabaddi player.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#gsn3np",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T10:56:02.843468+00:00"
+  },
+  {
+    "id": 89,
+    "tmdb_id": null,
+    "title": "Pushpa 2 - The Rule",
+    "genre": "Action",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/759mIIerY4Njb8uPoj7AIXGSNh3.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
+    "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#asixd",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Pushpa Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T19:25:18.321822+00:00"
+  },
+  {
+    "id": 50,
+    "tmdb_id": null,
+    "title": "Zootopia 2",
+    "genre": "Animation",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+    "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+    "servers": [],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Zootopia Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T07:29:16.042933+00:00"
+  },
+  {
+    "id": 74,
+    "tmdb_id": null,
+    "title": "Jaat",
+    "genre": "Crime",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/iV5rMrld86kNBWEy75Cjq8RRFaO.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/nzlO8Z6JH4JUmZ4XuwoFe52xgN1.jpg",
+    "description": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#mi5vuj",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T13:04:41.779289+00:00"
+  },
+  {
+    "id": 79,
+    "tmdb_id": null,
+    "title": "K.G.F: Chapter 2",
+    "genre": "Action",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+    "description": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#me5odf",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "K.G.F Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-02T16:32:32.187913+00:00"
+  },
+  {
+    "id": 84,
+    "tmdb_id": null,
+    "title": "Skal: Fight for Survival",
+    "genre": "Action",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/s9YTxwaByYeoSqugYjJJtZjMRAG.jpg",
+    "description": "My name's Arthur, a huge Internet star who's just hit 3 million subs. While in the midst of throwing an epic party to celebrate, the universe had the balls to bring on the effing apocalypse and cut my night short. What was supposed to be a perfect hangover, has turned into an epic fight for survival.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#bgczql",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-02T18:29:30.376658+00:00"
+  }
+]
