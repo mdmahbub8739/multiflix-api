@@ -156,6 +156,27 @@
     "created_at": "2025-12-02T11:18:16.115369+00:00"
   },
   {
+    "id": 90,
+    "tmdb_id": null,
+    "title": "Elio",
+    "genre": "Family",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/bvATKuxz9Wu53caHUJ7SP38gFQ3.jpg",
+    "description": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#qtkar5",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-03T03:38:26.636895+00:00"
+  },
+  {
     "id": 56,
     "tmdb_id": null,
     "title": "Tere Ishk Mein",
@@ -301,6 +322,27 @@
     "sequence_name": null,
     "sequence_order": null,
     "created_at": "2025-12-02T18:33:51.007179+00:00"
+  },
+  {
+    "id": 91,
+    "tmdb_id": null,
+    "title": "Ne Zha 2",
+    "genre": "Animation",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+    "description": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#tw98op",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Ne Zha Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-03T03:40:45.033753+00:00"
   },
   {
     "id": 57,
@@ -450,6 +492,27 @@
     "created_at": "2025-12-02T18:52:44.999286+00:00"
   },
   {
+    "id": 92,
+    "tmdb_id": null,
+    "title": "Wrath of the Titans",
+    "genre": "Fantasy",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/w500/b9n2R3xZWQ8MVZgndQoV34stS0h.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/hYY4k0346KtwskCrgmC4C4HGSnj.jpg",
+    "description": "Perseus tries to live a quieter life as a village fisherman while – dangerously weakened by humanity's lack of devotion – the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos.",
+    "servers": [
+      {
+        "url": "https://dintezuvio.com/embed/iw87f6o5j2el",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Clash of the Titans Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-03T03:45:34.60244+00:00"
+  },
+  {
     "id": 58,
     "tmdb_id": null,
     "title": "Thamma",
@@ -595,6 +658,27 @@
     "sequence_name": null,
     "sequence_order": null,
     "created_at": "2025-12-02T19:17:52.785315+00:00"
+  },
+  {
+    "id": 93,
+    "tmdb_id": null,
+    "title": "The Electric State",
+    "genre": "Science Fiction",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/2n7lYEeIbucsEQCswRcVB6ZYmMP.jpg",
+    "description": "An orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#djcoum",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-03T03:46:51.222748+00:00"
   },
   {
     "id": 59,
