@@ -1,95 +1,5 @@
 [
   {
-    "id": 3,
-    "tmdb_id": null,
-    "title": "Alya Sometimes Hides Her Feelings in Russian",
-    "genre": "Animation",
-    "year": "2024",
-    "status": "Ongoing",
-    "poster": "https://image.tmdb.org/t/p/w500/hfnzByZIRj6rx8xaxzS2zDilei1.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/original/3197ZU1CWDjdFsmqvWPZGXAYaoi.jpg",
-    "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!",
-    "seasons": [
-      {
-        "name": "Season 1",
-        "episodes": [
-          {
-            "title": "Alya Hides Her Feelings in Russian",
-            "servers": [
-              {
-                "url": "https://server1.uns.bio/#urvn66",
-                "name": "Server 1"
-              }
-            ],
-            "downloadLink": ""
-          },
-          {
-            "title": "So Much For Childhood Friends",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "And So They Met",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "An Outpouring of Emotion",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Different People, Common Undercurrent",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "A Kiss of the Indirect Variety",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "A Storm Arrives",
-            "servers": [],
-            "downloadLink": " "
-          },
-          {
-            "title": "Student Congress",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Rom-commy With a Chance of Hypnosis",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Birthday Party, Much Belated",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "An Unexpected Curtain-Raiser",
-            "servers": [
-              {
-                "url": "https://server1.uns.bio/#c5xvrk",
-                "name": "Server 1"
-              }
-            ],
-            "downloadLink": ""
-          },
-          {
-            "title": "Chin Up and Face Forward",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      }
-    ],
-    "cast_data": [],
-    "created_at": "2025-12-03T04:51:00.849347+00:00"
-  },
-  {
     "id": 4,
     "tmdb_id": null,
     "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -628,5 +538,249 @@
     ],
     "cast_data": [],
     "created_at": "2025-12-03T08:03:09.020723+00:00"
+  },
+  {
+    "id": 7,
+    "tmdb_id": null,
+    "title": "With You, Our Love Will Make It Through",
+    "genre": "Animation",
+    "year": "2025",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/uQb3NkDWEXQ9m1w49PzEy04uFn1.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/e8GfDn0MlqaxddpU6s928wOcAdI.jpg",
+    "description": "When high schooler Mari runs late for school, she never expects to fall for Tsunagu—a gentle, sensitive, beastfolk! In a world where beastfolk are segregated behind walls, Mari and Tsunagu show their differences are truly bridges. Can their love overcome the divide between beastfolk and humanity?",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#ilowfn",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 2",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#gso5pz",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 3",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#mhdfja",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 4",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#vfs3gq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 5",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 6",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 7",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 8",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 9",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 10",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 11",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 12",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-04T09:26:00.306566+00:00"
+  },
+  {
+    "id": 3,
+    "tmdb_id": null,
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
+    "genre": "Animation",
+    "year": "2024",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/hfnzByZIRj6rx8xaxzS2zDilei1.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/3197ZU1CWDjdFsmqvWPZGXAYaoi.jpg",
+    "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Alya Hides Her Feelings in Russian",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#urvn66",
+                "name": "Server 1"
+              },
+              {
+                "url": "https://multimovies.p2pplay.pro/#pfzgr",
+                "name": "Server 2"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "So Much For Childhood Friends",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#a19qf",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "And So They Met",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#qa8za",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "An Outpouring of Emotion",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#slr58",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Different People, Common Undercurrent",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#ujmgi",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A Kiss of the Indirect Variety",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#weuy9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A Storm Arrives",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#k8you",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": " "
+          },
+          {
+            "title": "Student Congress",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#a19qx",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Rom-commy With a Chance of Hypnosis",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#ywgt9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Birthday Party, Much Belated",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#165ao",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "An Unexpected Curtain-Raiser",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#c5xvrk",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Chin Up and Face Forward",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#ywg3f",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": "https://multimovies.p2pplay.pro/#ywg3f"
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-03T04:51:00.849347+00:00"
   }
 ]
