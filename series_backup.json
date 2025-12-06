@@ -782,5 +782,220 @@
     ],
     "cast_data": [],
     "created_at": "2025-12-03T04:51:00.849347+00:00"
+  },
+  {
+    "id": 9,
+    "tmdb_id": null,
+    "title": "Adam's Sweet Agony",
+    "genre": "Animation",
+    "year": "2024",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/bM4nCynOSA5oCNqLsqb1Fo56sZQ.jpg",
+    "description": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered all men impotent, high school student Itsuki is the exception who escaped it. In order to protect this secret, he transfers to a very special high school, which turns out to be composed of 90% girls! There, he encounters an upbeat and friendly senior, a sexually frustrated female teacher, a tomboyish school 'prince,' and an heiress from a wealthy family. For Itsuki, who has his pick of any woman in the world, the question remains: which one will he choose?",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "If You Want to Sympathize with Me, You Need to Suffer Too!",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/s5gus2c",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Leave It to the Teacher to Calm Things Down!",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/nucqijo",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "I Stopped Hiding It",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/iaal1l1",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Finding a Fiance",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/cxn3w74",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "So, Do We Have an Agreement?",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/kduzhbn",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The \"Prince\" Who Loves Reading",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/f0njazu",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Three in the Shower",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/pbtpebc",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Make Sure You Choose Me",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/jqcxwkv",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-06T09:07:14.155123+00:00"
+  },
+  {
+    "id": 10,
+    "tmdb_id": null,
+    "title": "Hands off: Sawaranaide Kotesashi-kun",
+    "genre": "Animation",
+    "year": "2025",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/qTlVmoB4lcPcZaxUKF63Hqu2gUg.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/42jDmQKtmMC2QS0AVvSyBCs7p5H.jpg",
+    "description": "Kouyou Kotesashi, a sports doctor with massage skills, enrolls at Seiwa University Affiliated High School to secure a scholarship. He works as a live-in dorm manager, managing the school's talented female athletes and managing their well-being through intense training and massage therapy.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Hands Off, Kotesashi-kun",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/dg8vs07",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "What brings you here, Aoba-chan? (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/twmhiu8",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "What brings you here, Aoba-chan? (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wzb2ce9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Izumi-chan Wants to Quit Swimming (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/zerrd7q",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Izumi-chan Wants to Quit Swimming (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/mg097o4",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Chiyo-chan Can't Take the ****? (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wxhve2d",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Chiyo-chan Can't Take the ****? (Part 2)",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Miyuki-chan is Charismatic (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/zcrcjpq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Miyuki-chan is Charismatic (Part 2)",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 10",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 11",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 12",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-06T10:30:49.438247+00:00"
   }
 ]
