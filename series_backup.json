@@ -1,365 +1,5 @@
 [
   {
-    "id": 4,
-    "tmdb_id": null,
-    "title": "Demon Slayer: Kimetsu no Yaiba",
-    "genre": "Animation",
-    "year": "2019",
-    "status": "Finished",
-    "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/original/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
-    "description": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
-    "seasons": [
-      {
-        "name": "Unwavering Resolve",
-        "episodes": [
-          {
-            "title": "Cruelty",
-            "servers": [
-              {
-                "url": "https://tpx.p2pstream.vip/#3gf5j",
-                "name": "Server 1"
-              }
-            ],
-            "downloadLink": ""
-          },
-          {
-            "title": "Trainer Sakonji Urokodaki",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Sabito and Makomo",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Final Selection",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "My Own Steel",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Swordsman Accompanying a Demon",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Muzan Kibutsuji",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The Smell of Enchanting Blood",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Temari Demon and Arrow Demon",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Together Forever",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Tsuzumi Mansion",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Something More Important Than Life",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The House With the Wisteria Family Crest",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Mount Natagumo",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Letting Someone Else Go First",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "You Must Master a Single Thing",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "A Forged Bond",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Hinokami",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Pretend Family",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Against Corps Rules",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Master of the Mansion",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Hashira Meeting",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Rehabilitation Training",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Tsuguko, Kanao Tsuyuri",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "New Mission",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      },
-      {
-        "name": "Mugen Train",
-        "episodes": [
-          {
-            "title": "Flame Hashira Kyojuro Rengoku",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Deep Sleep",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Should Have Been",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Insult",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Move Forward!",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Akaza",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Set Your Heart Ablaze",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      },
-      {
-        "name": "Entertainment District",
-        "episodes": [
-          {
-            "title": "Sound Hashira Tengen Uzui",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Infiltrating the Entertainment District",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "What Are You?",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Tonight",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Things Are Gonna Get Real Flashy!!",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Layered Memories",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Transformation",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Gathering",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Defeating an Upper Rank Demon",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Never Give Up",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "No Matter How Many Lives",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      },
-      {
-        "name": "Swordsmith Village",
-        "episodes": [
-          {
-            "title": "Someone's Dream",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Yoriichi Type Zero",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "A Sword From Over 300 Years Ago",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Thank You, Tokito",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Bright Red Sword",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Aren't You Going to Become a Hashira?",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Awful Villain",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The Mu in Muichiro",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Mist Hashira Muichiro Tokito",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Love Hashira Mitsuri Kanroji",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "A Connected Bond: Daybreak and First Light",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      },
-      {
-        "name": "Hashira Training",
-        "episodes": [
-          {
-            "title": "To Defeat Muzan Kibutsuji",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Water Hashira Giyu Tomioka's Pain",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Fully Recovered Tanjiro Joins the Hashira Training!!",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "To Bring a Smile to One's Face",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "I Even Ate Demons",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The Strongest of the Demon Slayer Corps",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "Stone Hashira Gyomei Himejima",
-            "servers": [],
-            "downloadLink": ""
-          },
-          {
-            "title": "The Hashira Unite",
-            "servers": [],
-            "downloadLink": ""
-          }
-        ]
-      }
-    ],
-    "cast_data": [],
-    "created_at": "2025-12-03T05:58:27.035501+00:00"
-  },
-  {
     "id": 5,
     "tmdb_id": null,
     "title": "Critical: Between Life and Death",
@@ -640,6 +280,131 @@
     "created_at": "2025-12-04T09:26:00.306566+00:00"
   },
   {
+    "id": 10,
+    "tmdb_id": null,
+    "title": "Hands off: Sawaranaide Kotesashi-kun",
+    "genre": "Animation",
+    "year": "2025",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/qTlVmoB4lcPcZaxUKF63Hqu2gUg.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/42jDmQKtmMC2QS0AVvSyBCs7p5H.jpg",
+    "description": "Kouyou Kotesashi, a sports doctor with massage skills, enrolls at Seiwa University Affiliated High School to secure a scholarship. He works as a live-in dorm manager, managing the school's talented female athletes and managing their well-being through intense training and massage therapy.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Hands Off, Kotesashi-kun",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/dg8vs07",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "What brings you here, Aoba-chan? (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/twmhiu8",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "What brings you here, Aoba-chan? (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wzb2ce9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Izumi-chan Wants to Quit Swimming (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/zerrd7q",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Izumi-chan Wants to Quit Swimming (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/mg097o4",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Chiyo-chan Can't Take the ****? (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wxhve2d",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Chiyo-chan Can't Take the ****? (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/h8ab4uw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Miyuki-chan is Charismatic (Part 1)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/zcrcjpq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Miyuki-chan is Charismatic (Part 2)",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/jo3shr5",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 10",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 11",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 12",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-06T10:30:49.438247+00:00"
+  },
+  {
     "id": 3,
     "tmdb_id": null,
     "title": "Alya Sometimes Hides Her Feelings in Russian",
@@ -884,111 +649,721 @@
     "created_at": "2025-12-06T09:07:14.155123+00:00"
   },
   {
-    "id": 10,
+    "id": 14,
     "tmdb_id": null,
-    "title": "Hands off: Sawaranaide Kotesashi-kun",
+    "title": "Overflow",
     "genre": "Animation",
-    "year": "2025",
-    "status": "Ongoing",
-    "poster": "https://image.tmdb.org/t/p/w500/qTlVmoB4lcPcZaxUKF63Hqu2gUg.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/original/42jDmQKtmMC2QS0AVvSyBCs7p5H.jpg",
-    "description": "Kouyou Kotesashi, a sports doctor with massage skills, enrolls at Seiwa University Affiliated High School to secure a scholarship. He works as a live-in dorm manager, managing the school's talented female athletes and managing their well-being through intense training and massage therapy.",
+    "year": "2020",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/nvWtqhYb6g75Lf6qv7d7PdJ1Ab.jpg",
+    "description": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakawa. When Ayane discovers that Kazushi not only forgot to buy her pudding but is also using her special lotion in the bath, she decides to take revenge and join Kazushi in his bath along with Kotone. Will the perverted Kazushi be able to remain indifferent to them both?",
     "seasons": [
       {
         "name": "Season 1",
         "episodes": [
           {
-            "title": "Hands Off, Kotesashi-kun",
+            "title": "Soft Sisters and Bathing",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/dg8vs07",
+                "url": "https://server1.uns.bio/#j3hbpm",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "What brings you here, Aoba-chan? (Part 1)",
+            "title": "The Dreaming Girl Next to Me",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/twmhiu8",
+                "url": "https://server1.uns.bio/#cvlgke",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "What brings you here, Aoba-chan? (Part 2)",
+            "title": "Drawing Closer to Two Hearts",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/wzb2ce9",
+                "url": "https://server1.uns.bio/#6svjwt",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "Izumi-chan Wants to Quit Swimming (Part 1)",
+            "title": "Hot, Bothered, and Out of Control",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/zerrd7q",
+                "url": "https://server1.uns.bio/#qtsxlh",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "Izumi-chan Wants to Quit Swimming (Part 2)",
+            "title": "Hiding Together, Hearts Racing",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/mg097o4",
+                "url": "https://server1.uns.bio/#5zuedd",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "Chiyo-chan Can't Take the ****? (Part 1)",
+            "title": "Pouring My Heart Out to You",
             "servers": [
               {
-                "url": "https://gdmirrorbot.nl/embed/wxhve2d",
+                "url": "https://server1.uns.bio/#metrv5",
                 "name": "Server 1"
               }
             ],
             "downloadLink": ""
           },
           {
-            "title": "Chiyo-chan Can't Take the ****? (Part 2)",
+            "title": "The Apron Seduction",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#xi3d5v",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Forever Crazy About Two Sisters",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#b6cotw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-07T06:02:09.140729+00:00"
+  },
+  {
+    "id": 15,
+    "tmdb_id": null,
+    "title": "Redo of Healer(uncensored)",
+    "genre": "Animation",
+    "year": "2021",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/injrIOMNCQv4kTNX6hWa1QlyKoK.jpg",
+    "description": "In a world of monsters, adventurers and magic, some of the most gifted healers are subjugated to brute force. Keyaru gains the ability to rewind time and turns the tables on those who’ve exploited him in this dark fantasy tale of vengeance and fury.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "The Healer Starts Over!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#3uvxpa",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Ruins Princess Flare!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#bcydg9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Buys a Slave!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#r5kt5r",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Acquires Setsuna!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#pnhqaw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Finds a New Toy!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#vigfif",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Sheds Blood and Tears!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#l6qk86",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Executes Justice!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#fvma1h",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Meets the Demon Lord!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#1hxsll",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Takes Revenge for a Meal!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#yoeuja",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Becomes a Single, Lovely Flower!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#kl9wls",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer is Troubled by Norn’s Brutality!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#jwbnv1",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Healer Starts a New Journey!",
+            "servers": [
+              {
+                "url": "https://multiflix.p2pplay.pro/#uyi3yr",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-07T06:27:02.761179+00:00"
+  },
+  {
+    "id": 16,
+    "tmdb_id": null,
+    "title": "Harem in the Labyrinth of Another World",
+    "genre": "Animation, Harem, borderline H",
+    "year": "2022",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/drAnsk5w2PX5x3ooPv7I2xr3ksq.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/k4jj6KGcxQzo26PSjfAdQguUTfN.jpg",
+    "description": "High school student Michio Kaga was wandering aimlessly through life and the Internet, when he finds himself transported from a shady website to a fantasy world — reborn as a strong man who can use \"cheat\" powers. He uses his powers to become an adventurer, earn money, and get the right to claim girls that have idol-level beauty to form his very own harem.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Encounter",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/hfqcyf6",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Raising Money",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/lvgh1ip",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Acquisition",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/bcu1hrb",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Graduation",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/nhlc17r",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Crystal",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/f8oovvr",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Trials",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/bjrf4ms",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Magic",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/gyw44z6",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "New Home",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/t7e6h2s",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Bath",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/z4rf5ux",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Melancholy",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/qdw9zj9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Order",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/q21s13p",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Humans",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/s6thuqg",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-07T06:49:19.643805+00:00"
+  },
+  {
+    "id": 19,
+    "tmdb_id": null,
+    "title": "Teogonia",
+    "genre": "Action & Adventure",
+    "year": "2025",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/zGHrnnFc0p5Pf25qUaAv95JpnJC.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/4gcAg5Y47J4BPgrTHRTpoEolQmd.jpg",
+    "description": "Humans fight to protect their land from invading demi-human tribes in relentless battles. As his world is engulfed by intense warfare, Kai, a village boy from Lag, joins the fight to defend all he knows. After Kai’s comrades fall one by one and he’s injured, he suddenly recalls memories from another life. A fantasy tale unfolds as a village boy explores a world of magic, mystery, and heroism.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Kai of Lag Village",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#geqtxz",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Lady Jose",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#5wlpnk",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Arbitration God",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#8thxfb",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A Small Paradise",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#x6c8xn",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Priest and the Inspector",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#3v9ljf",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Rigdaros",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#rqedei",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Truthseeker",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#pkxjdw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "To Ispi Rio",
+            "servers": [
+              {
+                "url": "https://multimovies.rpmhub.site/#wltlk",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Power of God",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#kro9tm",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Great God Kanae",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#v16t1p",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Diabo",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#xiop1z",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Protector of Kanae",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#el8dax",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-07T08:01:03.127756+00:00"
+  },
+  {
+    "id": 22,
+    "tmdb_id": null,
+    "title": "Solo Leveling",
+    "genre": "Animation",
+    "year": "2024",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+    "seasons": [
+      {
+        "name": "Solo Leveling",
+        "episodes": [
+          {
+            "title": "I'm Used to It",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#6pnxdq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "If I Had One More Chance",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#51icg9",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "It's Like a Game",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#xeofkc",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "I've Gotta Get Stronger",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#hk86qq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A Pretty Good Deal",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#po3e8y",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Real Hunt Begins",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#gsrbow",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Let's See How Far I Can Go",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#6pnxdf",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "This Is Frustrating",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#e9qgnm",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "You've Been Hiding Your Skills",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#hk86j6",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "What Is This, a Picnic?",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#mhdyux",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A Knight Who Defends an Empty Throne",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#suci8k",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Arise",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#3wgqmw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "You Aren't E-Rank, Are You",
             "servers": [],
             "downloadLink": ""
           },
           {
-            "title": "Miyuki-chan is Charismatic (Part 1)",
-            "servers": [
-              {
-                "url": "https://gdmirrorbot.nl/embed/zcrcjpq",
-                "name": "Server 1"
-              }
-            ],
-            "downloadLink": ""
-          },
-          {
-            "title": "Miyuki-chan is Charismatic (Part 2)",
+            "title": "I Suppose You Aren't Aware",
             "servers": [],
             "downloadLink": ""
           },
           {
-            "title": "Episode 10",
+            "title": "Still a Long Way to Go",
             "servers": [],
             "downloadLink": ""
           },
           {
-            "title": "Episode 11",
+            "title": "I Need to Stop Faking",
             "servers": [],
             "downloadLink": ""
           },
           {
-            "title": "Episode 12",
+            "title": "This Is What We're Trained to Do",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Don't Look Down on My Guys",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "The 10th S-Rank Hunter",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Looking Up Was Tiring Me Out",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "It Was All Worth It",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "We Need a Hero",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "It's Going to Get Even More Intense",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Are You the King of Humans",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "On to the Next Target",
             "servers": [],
             "downloadLink": ""
           }
@@ -996,6 +1371,6 @@
       }
     ],
     "cast_data": [],
-    "created_at": "2025-12-06T10:30:49.438247+00:00"
+    "created_at": "2025-12-07T10:05:42.368961+00:00"
   }
 ]
