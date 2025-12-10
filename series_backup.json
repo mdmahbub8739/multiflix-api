@@ -2962,5 +2962,410 @@
     ],
     "cast_data": [],
     "created_at": "2025-12-08T02:16:10.808617+00:00"
+  },
+  {
+    "id": 33,
+    "tmdb_id": null,
+    "title": "Lord of Mysteries",
+    "genre": "Animation",
+    "year": "2025",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/AdWWrcYKNXlpeWNJlmK4HCJ6Dj9.jpg",
+    "description": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+    "seasons": [
+      {
+        "name": "The Clown",
+        "episodes": [
+          {
+            "title": "The Fool",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/lxt25l3",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Beyonder",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/ryzi455",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Notebook",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/kuufa64",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Magic Mirror",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/p2tmyri",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Hero",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/j4ipjc2",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Teacher",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#6s3j3d",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Coincidence",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#6stfds",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Losing Control",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#loyv3k",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Party",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#ipwyjd",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Clue",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#cvumxy",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Mastermind",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#elbu9b",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Bomb",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#krsdfy",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Light",
+            "servers": [
+              {
+                "url": "https://multimovies.p2pplay.pro/#dds3v",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      },
+      {
+        "name": "The Faceless",
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 2",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 3",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 4",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 5",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 6",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 7",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 8",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 9",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 10",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 11",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 12",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 13",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 14",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 15",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 16",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 17",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 18",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 19",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 20",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 21",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 22",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 23",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 24",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 25",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 26",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 27",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 28",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 29",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Episode 30",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-09T16:43:53.975501+00:00"
+  },
+  {
+    "id": 34,
+    "tmdb_id": null,
+    "title": "The Share House's Secret Rule",
+    "genre": "Animation, Harem, borderline H, Hindi dubbed",
+    "year": "2025",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/chmCJiUJqhOpBKfJi88Rw2iB8IT.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/3aY6GAOLhPDVNbms9bPc7lNite8.jpg",
+    "description": "After entering university, Ryota moves into a share house where he meets two stunningly beautiful sharemates, Momoka and Kanade. As the three of them begin to cohabitate together, they agree on one \"secret rule.\" \"If it's just for a minute, you can touch whatever you want.\" Thus begins Ryota's new life at the share house, where sweet temptation lies behind every door...!",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "My roommates are way too cute",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/u6jwsj7",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Come on... Touch me",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/teqjjjd",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "I’ll do it for you...",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wf0ykw2",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "I'm just working out...!",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/d6q3t7i",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "They might hear me...",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/nl88go8",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "You've had too much to drink...",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/m494td8",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "We can’t do this in a movie theater...",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/up9ur51",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "One minute... There's no way I can stop...",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/qmxgx8k",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-09T17:17:18.475045+00:00"
   }
 ]
