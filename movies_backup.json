@@ -1828,5 +1828,68 @@
     "sequence_name": null,
     "sequence_order": null,
     "created_at": "2025-12-08T10:21:50.533741+00:00"
+  },
+  {
+    "id": 139,
+    "tmdb_id": null,
+    "title": "Nishaanchi 2",
+    "genre": "Drama",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xUayFrF27SdDZYlKQBUlqxUOxcB.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/rhA68OHeW7pkyVnwpU8vJjsQvuw.jpg",
+    "description": "After another stint in jail, Tony finds that Rinku, his one true love and hope, has been taken by his brother Dabloo. This shocks him into reforming, but Ambika drags him back into crime, with Kamal on his trail. How Manjari gets to have the last laugh, with Tony, Ambika and Kamal at the forefront, forms the rest of the two-part gangster drama.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#pocauu",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Nishaanchi Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-09T17:21:54.66978+00:00"
+  },
+  {
+    "id": 140,
+    "tmdb_id": null,
+    "title": "Aankhon Ki Gustaakhiyan",
+    "genre": "Drama",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/bH4aCEYqF6JMAlfulFmmG0pSN8.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/stBBSoTudhuGosaX3pcGHKWQcuS.jpg",
+    "description": "When a blind musician and a theatre artist meet on a train and travel through the majestic Himalayas, they fall in love regardless of their apparent flaws. What happens when life takes over?",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#v1dojj",
+        "name": "server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-09T17:24:28.968581+00:00"
+  },
+  {
+    "id": 141,
+    "tmdb_id": null,
+    "title": "Banger",
+    "genre": "Comedy",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/x2pegSby27ebOwW361GJb1aKcxa.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
+    "description": "When cops recruit a has-been DJ to bust a quirky criminal gang with ties to his rival, he spots a chance to mix his way back to the top with a banger.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#taxtkw",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-09T17:26:01.995325+00:00"
   }
 ]
