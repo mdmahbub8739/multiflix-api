@@ -534,6 +534,27 @@
     "created_at": "2025-12-05T13:50:12.244038+00:00"
   },
   {
+    "id": 142,
+    "tmdb_id": null,
+    "title": "Maaman",
+    "genre": "Family",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/a0BsRj9qQu8L2arBAHcbbfrVrB7.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/aSN6JVqci5QdzuUU5M8IJQ2RKG7.jpg",
+    "description": "An uncle's deep connection with his nephew is broken, when their family experiences personal differences.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#capxn9",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-10T07:58:12.09994+00:00"
+  },
+  {
     "id": 57,
     "tmdb_id": null,
     "title": "The Dive",
@@ -1891,5 +1912,89 @@
     "sequence_name": null,
     "sequence_order": null,
     "created_at": "2025-12-09T17:26:01.995325+00:00"
+  },
+  {
+    "id": 143,
+    "tmdb_id": null,
+    "title": "Don't Die: The Man Who Wants to Live Forever",
+    "genre": "Documentary",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/ey6HaUwo4CJoOYDlJ0M90ykJ0dt.jpg",
+    "description": "In this documentary, wealthy entrepreneur Bryan Johnson puts his body and fortune on the line to defy aging and extend his life beyond all known limits.",
+    "servers": [
+      {
+        "url": "https://multimovies.rpmhub.site/#eauei",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-10T08:01:51.300574+00:00"
+  },
+  {
+    "id": 144,
+    "tmdb_id": null,
+    "title": "Panda Plan",
+    "genre": "Action",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/dXoBFj9Yl9HDRcDVQubkuVCh26N.jpg",
+    "description": "International action star Jackie Chan is invited to the adoption ceremony of a rare baby panda, but after an international crime syndicate attempts to kidnap the bear, Jackie has to save the bear using his stunt work skills.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#hkqure",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Panda Plan Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-10T19:49:17.698455+00:00"
+  },
+  {
+    "id": 145,
+    "tmdb_id": null,
+    "title": "Survivor Series: WarGames",
+    "genre": "Drama",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/egcSpChghaTiYXonNds5bdi3aiW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/uAFnSHHQBp34fgAdt47wlvUk6HS.jpg",
+    "description": "WWE Survivor Series: WarGames 2025 was held on November 29, 2025, at Petco Park in San Diego, California, and featured the biggest Men’s WarGames match ever as Undisputed WWE Champion Cody Rhodes, WWE World Heavyweight Champion CM Punk, Roman Reigns, Jey Uso, and Jimmy Uso battled Brock Lesnar, Drew McIntyre, Logan Paul, Bron Breakker, and Bronson Reed inside two rings surrounded by a roofless cage. The event also included the final WWE Premium Live Event match of John Cena’s career, where the 17-time world champion and reigning Intercontinental Champion put his title on the line against Dominik Mysterio. The most star-studded Women’s WarGames match ever also took center stage, featuring AJ Lee, Charlotte Flair, Alexa Bliss, Rhea Ripley, and IYO SKY against Becky Lynch, WWE Women’s Tag Team Champions Asuka and Kairi Sane, Nia Jax, and Lash Legend. In addition, the event featured a WWE Women’s World Championship match where Stephanie Vaquer faced off against Nikki Bella for her title.",
+    "servers": [
+      {
+        "url": "https://multimovies.p2pplay.pro/#l6q86v",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-10T19:52:44.191432+00:00"
+  },
+  {
+    "id": 146,
+    "tmdb_id": null,
+    "title": "Superman",
+    "genre": "Science Fiction",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+    "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#xicg1p",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Superman (DCU) Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-10T19:57:54.176023+00:00"
   }
 ]
