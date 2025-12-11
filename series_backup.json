@@ -3367,5 +3367,275 @@
     ],
     "cast_data": [],
     "created_at": "2025-12-09T17:17:18.475045+00:00"
+  },
+  {
+    "id": 35,
+    "tmdb_id": null,
+    "title": "Death Note Hindi ",
+    "genre": "Animation",
+    "year": "2006",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/mOlEbXcb6ufRJKogI35KqsSlCfB.jpg",
+    "description": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and Light has vowed to use the power of the Death Note to rid the world of evil. But will Light succeed in his noble goal, or will the Death Note turn him into the very thing he fights against?",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "Rebirth",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/mgm05bv",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Confrontation",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/jj90p9j",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Dealings",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/hws2ukc",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Pursuit",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/ui6t2vd",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Tactics",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Unraveling",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wujepqf",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Overcast",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Glare",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Encounter",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Doubt",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Assault",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Love",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#meyn9f",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Confession",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#pue5je",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Friend",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#mem95h",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Wager",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#5z5xof",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Decision",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#knd6hv",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Execution",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#ldumiy",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Ally",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#pooxqw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Matsuda",
+            "servers": [
+              {
+                "url": "https://server1.uns.bio/#bii5lq",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Makeshift",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Performance",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Guidance",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Frenzy",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Revival",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Silence",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Renewal",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Abduction",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Impatience",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Father",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Justice",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Transfer",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Selection",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Scorn",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Vigilance",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "Malice",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "1.28",
+            "servers": [],
+            "downloadLink": ""
+          },
+          {
+            "title": "New World",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-10T08:28:19.294709+00:00"
   }
 ]
