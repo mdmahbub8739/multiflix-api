@@ -1996,5 +1996,89 @@
     "sequence_name": "Superman (DCU) Collection",
     "sequence_order": null,
     "created_at": "2025-12-10T19:57:54.176023+00:00"
+  },
+  {
+    "id": 147,
+    "tmdb_id": null,
+    "title": "The Running Man",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+    "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "servers": [
+      {
+        "url": "https://gdmirrorbot.nl/embed/kv4iw7h",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-13T03:07:28.657505+00:00"
+  },
+  {
+    "id": 148,
+    "tmdb_id": null,
+    "title": "In Time",
+    "genre": "Action",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/pxL08w7Eq0vKrQ3mJzYp0VHGaKG.jpg",
+    "description": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+    "servers": [
+      {
+        "url": "https://strmup.cc/7nKLGdf4t9QEW",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-13T08:32:30.285641+00:00"
+  },
+  {
+    "id": 149,
+    "tmdb_id": null,
+    "title": "Akhanda 2: Thaandavam",
+    "genre": "Action",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/2RGcVKH22rPBN21bq4nlx8wBUD6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/fyAIKONWYLEZSptXBrAtCY1Oipt.jpg",
+    "description": "When all hope died, Akhanda arrived. He saved his family, protected his people, killed the wrongdoers, and retreated into isolation. But years later, new threats emerge, putting the world in danger. And as the world burns, Akhanda returns.",
+    "servers": [
+      {
+        "url": "https://strmup.cc/FAd3VqyfW64PK",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Akhanda Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-13T09:15:10.349787+00:00"
+  },
+  {
+    "id": 150,
+    "tmdb_id": null,
+    "title": "I Want to Eat Your Pancreas",
+    "genre": "Coming-of-age, Drama, Romance",
+    "year": "2018",
+    "poster": "https://i.postimg.cc/RCPmDmLG/434413-i-want-to-eat-your-pancreas-0-1000-0-1500-crop.jpg",
+    "thumbnail": "https://i.postimg.cc/RCPmDmLG/434413-i-want-to-eat-your-pancreas-0-1000-0-1500-crop.jpg",
+    "description": "A male high school student unexpectedly bonds with a terminally ill classmate, Sakura, upon discovering she’s secretly keeping a diary of her illness. As their friendship deepens, he learns to live more fully because of her limited time.",
+    "servers": [
+      {
+        "url": "https://drive.google.com/file/d/1weU6RNT90Ui7AtlzED38MXFQaYEBdwwU/preview",
+        "name": "Google Drive"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-14T12:31:20.572214+00:00"
   }
 ]
