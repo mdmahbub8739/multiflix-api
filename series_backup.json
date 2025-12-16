@@ -12799,6 +12799,141 @@
     "created_at": "2025-12-14T12:31:24.072407+00:00"
   },
   {
+    "id": 99,
+    "tmdb_id": null,
+    "title": "My Status as an Assassin Obviously Exceeds the Hero's",
+    "genre": "Animation",
+    "year": "2025",
+    "status": "Ongoing",
+    "poster": "https://image.tmdb.org/t/p/w500/oQk3aXYEa4TMd9rAYgzDpAYTU8P.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/k0aoy0vcLxpI8d6USLMM2qzhwsb.jpg",
+    "description": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre \"assassin.\" However, his status soon surpasses \"hero,\" the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "The Assassin Eats Bread",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/tp6x83z",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Takes Care of the Wounded",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/csriwgy",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Plays With a Cat",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/d99hedz",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Calls the Name",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/z5l2h9k",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Sleeps In A Bed",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/s4z2bhr",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Fights a Demon",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/eqsm9wb",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Makes a Vow",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/lokbaqw",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Is Spellbound",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/nat2r9l",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Sees the Sights",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/tfq7w8g",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Gazes At The River Surface",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/q6qgwb2",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "The Assassin Browses",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/r6wl80s",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Oda Akira Becomes An Assassin",
+            "servers": [],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-16T04:10:04.876316+00:00"
+  },
+  {
     "id": 89,
     "tmdb_id": null,
     "title": "Ranma ½ (2024 Remake)",
