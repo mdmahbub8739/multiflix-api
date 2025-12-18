@@ -13934,6 +13934,106 @@
     "created_at": "2025-12-14T12:31:24.072407+00:00"
   },
   {
+    "id": 100,
+    "tmdb_id": null,
+    "title": "Sweet Kaaram Coffee",
+    "genre": "Comedy",
+    "year": "2023",
+    "status": "Finished",
+    "poster": "https://image.tmdb.org/t/p/w500/qhm8HKWUVS5BbWLqM8C4AE2NnXl.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/2ndoTmP1kXXAb8n9YqOd3rqT4wl.jpg",
+    "description": "Braving the unknown, three women of different generations living in the same house set off on an epic road trip as an attempt to put themselves before the people they are bound by for the first time.",
+    "seasons": [
+      {
+        "name": "Season 1",
+        "episodes": [
+          {
+            "title": "A woman like you",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/c4tslx8",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Escape velocity",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/p6fu7q6",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "A different beat",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/cf1a84d",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Break from a break",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/a29nmt0",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Just a mother",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/fs5t0rv",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Are you happy?",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/dovkcmf",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Hearing is not listening",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/wrc0q5u",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          },
+          {
+            "title": "Rule Number 5",
+            "servers": [
+              {
+                "url": "https://gdmirrorbot.nl/embed/blfhy1f",
+                "name": "Server 1"
+              }
+            ],
+            "downloadLink": ""
+          }
+        ]
+      }
+    ],
+    "cast_data": [],
+    "created_at": "2025-12-16T13:29:31.770152+00:00"
+  },
+  {
     "id": 94,
     "tmdb_id": null,
     "title": "Ive Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
