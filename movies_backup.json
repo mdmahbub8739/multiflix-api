@@ -429,27 +429,6 @@
     "created_at": "2025-12-03T03:40:45.033753+00:00"
   },
   {
-    "id": 96,
-    "tmdb_id": null,
-    "title": "Suzume",
-    "genre": "Animation",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
-    "description": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
-    "servers": [
-      {
-        "url": "https://server1.uns.bio/#tzp1te",
-        "name": "Server 1"
-      }
-    ],
-    "downloads": [],
-    "cast_data": [],
-    "sequence_name": null,
-    "sequence_order": null,
-    "created_at": "2025-12-04T09:16:07.060744+00:00"
-  },
-  {
     "id": 101,
     "tmdb_id": null,
     "title": "Jujutsu Kaisen 0",
@@ -2143,5 +2122,73 @@
     "sequence_name": "Kesari Collection",
     "sequence_order": null,
     "created_at": "2025-12-16T19:00:59.726975+00:00"
+  },
+  {
+    "id": 154,
+    "tmdb_id": null,
+    "title": "Weathering with You",
+    "genre": "Animation",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
+    "description": "The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if taking its cue from his life. After many days of solitude, he finally finds work as a freelance writer for a mysterious occult magazine. Then, one day, Hodaka meets Hina on a busy street corner. This bright and strong-willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky.",
+    "servers": [
+      {
+        "url": "https://gdmirrorbot.nl/embed/hig4jse",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-18T14:09:08.58347+00:00"
+  },
+  {
+    "id": 96,
+    "tmdb_id": null,
+    "title": "Suzume",
+    "genre": "Animation",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/4tdV5AeojEdbvn6VpeQrbuDlmzs.jpg",
+    "description": "Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+    "servers": [
+      {
+        "url": "https://server1.uns.bio/#tzp1te",
+        "name": "Server 1"
+      }
+    ],
+    "downloads": [
+      {
+        "link": "https://cryptoinsights.site/how-many-jobs-are-available-in-consumer-services-in-the-usa/",
+        "title": "1080p"
+      }
+    ],
+    "cast_data": [],
+    "sequence_name": null,
+    "sequence_order": null,
+    "created_at": "2025-12-04T09:16:07.060744+00:00"
+  },
+  {
+    "id": 155,
+    "tmdb_id": null,
+    "title": "Pretham",
+    "genre": "Comedy",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/w500/gzjXkR4nxfNz0AWCJgS7lZ49nlP.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/original/rWdzJIeFRfQp1ICFuLslD5D6Hht.jpg",
+    "description": "Three happy-go-lucky friends run a coastal resort till a series of mysterious events leave them worried. The plot thickens when a mentalist named John Don Bosco enters the fray to investigate the possibility of a paranormal entity.",
+    "servers": [
+      {
+        "url": "https://youtu.be/z8FQ7QRpxY4",
+        "name": "YT"
+      }
+    ],
+    "downloads": [],
+    "cast_data": [],
+    "sequence_name": "Pretham Collection",
+    "sequence_order": null,
+    "created_at": "2025-12-19T05:09:53.530816+00:00"
   }
 ]
